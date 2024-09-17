@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zihao Dong, a PhD Student at Northeastern University(Khoury College of Computer Science) since Sept. 2023 advised by [Prof. Michael Everett](mfe7.github.io).
+I am Zihao Dong, a PhD Student at Northeastern University (Khoury College of Computer Science) since Sept. 2023 advised by [Prof. Michael Everett](mfe7.github.io).
 
 Research Interest
 ======
