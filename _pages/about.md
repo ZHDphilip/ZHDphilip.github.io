@@ -7,15 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 homepage_feature_row:
-  - image_path: publications/nfls.png
-    title: "Neural Feedback Loop Verification"
-  - image_path: publications/cadrl_stata.gif
-    title: "Socially Aware Motion Planning"
-  - image_path: warthog.png
-    title: "High-Speed Off-Road Navigation"
+  - image_path: publications/dong24_dfliom.png
+    title: "LiDAR-based SLAM"
+  - image_path: publications/long_horizon_test_cust_masked.gif
+    title: "Off-Road Autonomy"
 ---
 
-I am Zihao Dong, a PhD Student at Northeastern University (Khoury College of Computer Science) since Sept. 2023 advised by [Prof. Michael Everett](mfe7.github.io).
+I am Zihao Dong, a PhD Student at Northeastern University (Khoury College of Computer Science) since Sept. 2023 advised by [Prof. Michael Everett](https://mfe7.github.io).
 
 Research Interest
 ======
