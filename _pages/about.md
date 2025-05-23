@@ -9,7 +9,7 @@ redirect_from:
 homepage_feature_row:
   - image_path: publications/dong24_dfliom.png
     title: "LiDAR-based SLAM"
-  - image_path: publications/long_horizon_test_cust_masked.gif
+  - image_path: publications/boulder_driving.gif
     title: "Off-Road Autonomy"
 ---
 
@@ -21,3 +21,7 @@ Research Interest
 My research focuses on the perception and planning for autonomy in complex (off-road) environments. Specifically, I am interested in efficient LiDAR-based localization that can robustly operate for long horizon missions, and the utilization of learning methods in model-based planning. To provide safety or robustness guarantee, I am working on the integration of uncertainty quantification techniques in these problem settings.
 
 I received the BS in Computer Science from UCLA in 2023 with honor SUMMA CUM LAUDE (Top 5%).
+
+---
+
+{% include homepage_feature_row %}
